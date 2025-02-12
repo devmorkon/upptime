@@ -40,7 +40,7 @@
     "url": "https://mail.svmidden.nl",
     "icon": "https://icons.duckduckgo.com/ip3/mail.svmidden.nl.ico",
     "slug": "svmn-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1220,
     "timeMonth": 1160,
     "timeYear": 1160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
